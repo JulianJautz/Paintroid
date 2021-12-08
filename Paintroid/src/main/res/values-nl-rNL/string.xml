@@ -35,9 +35,11 @@
     <string name="button_text">Tekst</string>
     <string name="button_shape">Vormen</string>
     <string name="button_hand">Hand</string>
+    <string name="button_watercolor">Watercolor</string>
     <string name="button_spray_can">Spray can</string>
     <string name="button_apply">Apply</string>
     <string name="button_checkmark">Checkmark</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Gereed</string>
     <string name="gallery">Kies afbeelding</string>
     <string name="load_sticker_error">Could not load Sticker</string>
@@ -56,6 +58,7 @@
     <string name="help_title">Help</string>
     <string name="help_content_eraser">Verwijder delen van de afbeelding zoals met een gum.</string>
     <string name="help_content_brush">Klik op de symbolen op de onderste balk om de kleur of penseelgrootte te wijzigen.</string>
+    <string name="help_content_watercolor">Similar to the brush tool with a watercolor effect. However you can also change the strength of the brush with the slider in the color menu.</string>
     <string name="help_content_eyedropper">Tik op de afbeelding om een kleur te selecteren.</string>
     <string name="help_content_undo">Klik op om uw vorige actie ongedaan maken.</string>
     <string name="help_content_redo">Klik om een ongedane actie opnieuw te laten maken.</string>

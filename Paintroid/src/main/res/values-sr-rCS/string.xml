@@ -35,9 +35,11 @@
     <string name="button_text">Tekst</string>
     <string name="button_shape">Oblici</string>
     <string name="button_hand">Ruka</string>
+    <string name="button_watercolor">Watercolor</string>
     <string name="button_spray_can">Spray can</string>
     <string name="button_apply">Primeni</string>
     <string name="button_checkmark">Checkmark</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Gotovo</string>
     <string name="gallery">Izaberi sliku</string>
     <string name="load_sticker_error">Could not load Sticker</string>
@@ -56,6 +58,7 @@
     <string name="help_title">Pomoć</string>
     <string name="help_content_eraser">Obriši delove slike sa gumicom.</string>
     <string name="help_content_brush">Pritisni na simbole kod donje trake da promeniš boju ili veličinu četke.</string>
+    <string name="help_content_watercolor">Similar to the brush tool with a watercolor effect. However you can also change the strength of the brush with the slider in the color menu.</string>
     <string name="help_content_eyedropper">Pritisni na sliku da odabereš boju.</string>
     <string name="help_content_undo">Pritisni da opozoveš prošlu radnju.</string>
     <string name="help_content_redo">Pritisni da ponoviš poništenu radnu.</string>

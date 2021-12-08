@@ -35,9 +35,11 @@
     <string name="button_text">Szöveg</string>
     <string name="button_shape">Shapes</string>
     <string name="button_hand">Hand</string>
+    <string name="button_watercolor">Watercolor</string>
     <string name="button_spray_can">Spray can</string>
     <string name="button_apply">Apply</string>
     <string name="button_checkmark">Checkmark</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Kész</string>
     <string name="gallery">Kép kiválasztása</string>
     <string name="load_sticker_error">Could not load Sticker</string>
@@ -56,6 +58,7 @@
     <string name="help_title">Súgó</string>
     <string name="help_content_eraser">Töröld a kép részeit pont úgy, mint egy radírral.</string>
     <string name="help_content_brush">Érintsd meg az alsó eszköztár szimbólumait az ecset színének módosításához.</string>
+    <string name="help_content_watercolor">Similar to the brush tool with a watercolor effect. However you can also change the strength of the brush with the slider in the color menu.</string>
     <string name="help_content_eyedropper">Érintsd meg a képet egy szín kiválasztásához.</string>
     <string name="help_content_undo">Érintsd meg az előző művelet visszavonásához.</string>
     <string name="help_content_redo">Érintsd meg egy visszavont művelet újra elvégzéshez.</string>

@@ -35,9 +35,11 @@
     <string name="button_text">Text</string>
     <string name="button_shape">Former</string>
     <string name="button_hand">Hand</string>
+    <string name="button_watercolor">Watercolor</string>
     <string name="button_spray_can">Spray can</string>
     <string name="button_apply">Verkställ</string>
     <string name="button_checkmark">Checkmark</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Färdigt</string>
     <string name="gallery">Galleri</string>
     <string name="load_sticker_error">Could not load Sticker</string>
@@ -56,6 +58,7 @@
     <string name="help_title">Hjälp</string>
     <string name="help_content_eraser">Ta bort delar av bilden t.ex. med ett suddgummi.</string>
     <string name="help_content_brush">Klicka på symbolerna i nedre fältet för att ändra färg eller penselstorlek.</string>
+    <string name="help_content_watercolor">Similar to the brush tool with a watercolor effect. However you can also change the strength of the brush with the slider in the color menu.</string>
     <string name="help_content_eyedropper">Klicka på bilden för att välja en färg.</string>
     <string name="help_content_undo">tryck för att ångra den föregående åtgärden.</string>
     <string name="help_content_redo">Tryck för att göra om en ångra åtgärd.</string>

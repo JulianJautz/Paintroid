@@ -35,9 +35,11 @@
     <string name="button_text">Texte</string>
     <string name="button_shape">Formes</string>
     <string name="button_hand">Main</string>
+    <string name="button_watercolor">Watercolor</string>
     <string name="button_spray_can">Boîte en vaporisateur</string>
     <string name="button_apply">Appliquer</string>
     <string name="button_checkmark">Cochez la case</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Terminé</string>
     <string name="gallery">Galerie</string>
     <string name="load_sticker_error">Impossible de charger l\'autocollant</string>
@@ -56,6 +58,7 @@
     <string name="help_title">Aide</string>
     <string name="help_content_eraser">Supprimez des parties de l\'image comme avec une gomme.</string>
     <string name="help_content_brush">Appuyez sur les symboles de la barre du bas pour changer la couleur ou la taille de la brosse.</string>
+    <string name="help_content_watercolor">Similar to the brush tool with a watercolor effect. However you can also change the strength of the brush with the slider in the color menu.</string>
     <string name="help_content_eyedropper">Appuyez sur l\'image pour sélectionner une couleur.</string>
     <string name="help_content_undo">Tapotez pour annuler votre action précédente.</string>
     <string name="help_content_redo">Appuyer pour refaire une action annulée.</string>

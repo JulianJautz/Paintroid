@@ -35,9 +35,11 @@
     <string name="button_text">Text</string>
     <string name="button_shape">Tvary</string>
     <string name="button_hand">Hand</string>
+    <string name="button_watercolor">Watercolor</string>
     <string name="button_spray_can">Spray can</string>
     <string name="button_apply">Apply</string>
     <string name="button_checkmark">Checkmark</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Hotovo</string>
     <string name="gallery">Vybrat obrázek</string>
     <string name="load_sticker_error">Could not load Sticker</string>
@@ -56,6 +58,7 @@
     <string name="help_title">Nápověda</string>
     <string name="help_content_eraser">Odeber části obrazu jak gumou.</string>
     <string name="help_content_brush">Klepni na symboly na spodní liště pro změnu barvy nebo velikosti štětce.</string>
+    <string name="help_content_watercolor">Similar to the brush tool with a watercolor effect. However you can also change the strength of the brush with the slider in the color menu.</string>
     <string name="help_content_eyedropper">Klepni na obrázek pro výběr barvy.</string>
     <string name="help_content_undo">Klepni na tlačítko pro vrácení akce.</string>
     <string name="help_content_redo">Klepnutím na tlačítko Opakovat akci se vrátíte zpět.</string>

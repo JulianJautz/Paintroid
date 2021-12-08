@@ -35,9 +35,11 @@
     <string name="button_text">Bản văn</string>
     <string name="button_shape">Hình dạng</string>
     <string name="button_hand">Tay</string>
+    <string name="button_watercolor">Watercolor</string>
     <string name="button_spray_can">Bình xịt</string>
     <string name="button_apply">Ứng dụng</string>
     <string name="button_checkmark">Đánh dấu</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">Đã Thực hiện</string>
     <string name="gallery">Bộ sưu tập</string>
     <string name="load_sticker_error">Không thể tải Hình dán</string>
@@ -56,6 +58,7 @@
     <string name="help_title">Trợ giúp</string>
     <string name="help_content_eraser">Xóa bỏ các phần của bức ảnh với tẩy.</string>
     <string name="help_content_brush">Nhấp vào biểu tượng trên thanh công cụ phía dưới để thay đổi màu sắc hoặc kích thước cọ vẽ.</string>
+    <string name="help_content_watercolor">Similar to the brush tool with a watercolor effect. However you can also change the strength of the brush with the slider in the color menu.</string>
     <string name="help_content_eyedropper">Nhấp vào hình ảnh để chọn màu.</string>
     <string name="help_content_undo">Nhấp để quay lại hành động trước của bạn.</string>
     <string name="help_content_redo">Bấm vào để làm lại hành động chưa được hoàn thành.</string>

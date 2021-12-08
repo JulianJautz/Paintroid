@@ -35,9 +35,11 @@
     <string name="button_text">متن</string>
     <string name="button_shape">نقش</string>
     <string name="button_hand">Hand</string>
+    <string name="button_watercolor">Watercolor</string>
     <string name="button_spray_can">Spray can</string>
     <string name="button_apply">Apply</string>
     <string name="button_checkmark">Checkmark</string>
+    <string name="button_plus">Connect Line Segment</string>
     <string name="done">ٺيڪ آهي</string>
     <string name="gallery">تصوير چونڊيو</string>
     <string name="load_sticker_error">Could not load Sticker</string>
@@ -56,6 +58,7 @@
     <string name="help_title">مدد</string>
     <string name="help_content_eraser">رٻڙ ذريعي تصوير جي حصن کي ڊاهيو.</string>
     <string name="help_content_brush">رنگ ۽ برش جي سائيز تبديل ڪرڻ لاءِ هيٺين پٽي تي موجود نشان تي ڪلڪ ڪريو.</string>
+    <string name="help_content_watercolor">Similar to the brush tool with a watercolor effect. However you can also change the strength of the brush with the slider in the color menu.</string>
     <string name="help_content_eyedropper">رنگ چونڊڻ لاءِ تصوير تي ڪلڪ ڪريو.</string>
     <string name="help_content_undo">پنهنجي پوئين عمل کي ورجائڻ لاءِ اَنۡڊو تي ڪلڪ ڪريو.</string>
     <string name="help_content_redo">اڻمڪمل عمل کي واپس ڪرڻ لاءِ ڪلڪ ڪريو.</string>
